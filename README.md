@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  [GitHub Streak](https://streak-stats.demolab.com/?user=Mekala02&theme=dark)](https://git.io/streak-stats)
-</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mekala02&theme=dark)](https://git.io/streak-stats)
+
 
 <div align="center">
   <h1>Languages and Tools</h1>
