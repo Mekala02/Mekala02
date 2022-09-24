@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://camo.githubusercontent.com/c4268daaf5277d89a40e505923f41e642dfddbc5a4a8b97369548a53cc89388a/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d4d656b616c613032267468656d653d6461726b" alt="GitHub Streak" data-canonical-src="https://streak-stats.demolab.com/?user=Mekala02&amp;theme=dark" style="max-width: 100%;">
+<img align="center"
+src="https://camo.githubusercontent.com/c4268daaf5277d89a40e505923f41e642dfddbc5a4a8b97369548a53cc89388a/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d4d656b616c613032267468656d653d6461726b" alt="GitHub Streak" data-canonical-src="https://streak-stats.demolab.com/?user=Mekala02&amp;theme=dark" style="max-width: 100%;">
 
 
 <div align="center">
