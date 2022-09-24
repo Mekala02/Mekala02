@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Mekala02&theme=dark)](https://git.io/streak-stats)
+  [GitHub Streak](https://streak-stats.demolab.com/?user=Mekala02&theme=dark)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
