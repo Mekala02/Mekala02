@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **Mekala02/Mekala02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,6 +30,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" **alt="Torch" width="40" height="40"/>
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mekala02&theme=dark)](https://git.io/streak-stats)
 
 <!--
 [![Mekala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mekala02&count_private=true&theme=codeSTACKr&hide=stars,prs,issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
